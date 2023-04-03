@@ -13,4 +13,4 @@
 
 <img src= "https://github.com/luizgonzaga12/easy-shopping/blob/master/foto%20do%20projeto%20%20no%20pc%20e%20celular.png?raw=true"/> 
 
-<p>Este é apenas um exemplo simples de como usar HTML e CSS juntos para criar uma página web. Há muito mais para aprender, mas esperamos que isso tenha lhe dado uma ideia do que é possível. Obrigado por conferir! 👍 </>
+<p>Este é apenas um exemplo simples de como usar HTML e CSS juntos para criar uma página web. Há muito mais para aprender, mas espero que isso tenha lhe dado uma ideia do que é possível. Obrigado por conferir! 👍 </>

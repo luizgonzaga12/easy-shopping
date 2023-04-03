@@ -7,7 +7,6 @@
 
 - HTML: <i class="fab fa-html5"></i>
 - CSS: <i class="fab fa-css3"></i>
-- <input type="image" src="img/DelftStack/logo.png](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" style="border: double;" height="90" width="480"/> 
 
 <br> 
 <br>
